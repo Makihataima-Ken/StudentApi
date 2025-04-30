@@ -12,8 +12,8 @@ This is a minimal Django application with a single endpoint: `/get/students`. It
 ## How To Install
 1. clone the repo
 2. install Django
-3. run the server 'python manage.py runserver'
-4. go in your browser to 'http://127.0.0.1:8000/get/students'
+3. run the server `python manage.py runserver`
+4. go in your browser to `http://127.0.0.1:8000/get/students`
 
 ## Endpoint
 
